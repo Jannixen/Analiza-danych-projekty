@@ -1,6 +1,6 @@
-## Badanie wpływu kampanii reklamowych banku na umieszczanie depozytów przez klientów ##
+## Influence of marketing on term deposits subscriptions ##
 
-Celem projektu było zbadanie wpływu cech dotyczących prowadzonej kampanii marketingowej na umieszczenie przez klienta depozytu w banku, poprzez prowadzenie klasyfikacji umożliwiającej wykrywanie klientów potencjalnie bardziej podatnych na wpływ kampanii reklamowej. Zbiór danych składał się z cech dotyczących zarówno informacji personalnych klientów jak i informacji na temat prowadzonej kampanii np. liczby kontaktów, sposobu kontaktu z klientem czy ogólnych czynników ekonomicznych. Otrzymano trafność klasyfikacji na poziomie 81% oraz 60% skuteczność wykrywania klasy pozytywnej.
+Aims to identify the customers most likely to deposit in the bank and target the marketing campaign to them. Shows how, by manipulating the probability threshold of the classification model, even a mediocre (at first glance) model can deliver business value and savings if used and interpreted correctly.
 
 
-#EDA, #PCA, #Logistic Regression, #Decision Tree, #XGBOOST
+#EDA, #Logistic Regression, #Decision Tree, #XGBOOST, #ROC, #LIFT
